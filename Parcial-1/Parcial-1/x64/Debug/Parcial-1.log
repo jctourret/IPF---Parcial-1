@@ -1,0 +1,2 @@
+﻿  ejer1.cpp
+C:\Users\Juan M. Tourret\Desktop\Desarrollo de Videojuegos\IPF - Parcial 1\Parcial-1\Parcial-1\ejer1.cpp(17,1): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
